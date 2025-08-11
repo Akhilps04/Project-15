@@ -90,3 +90,9 @@ This project is for practical and demonstration purposes only. Please credit the
 
 ---
 <img width="920" height="544" alt="image" src="https://github.com/user-attachments/assets/6d741a14-2654-4f7c-a62d-4f9e0e1b197b" />
+
+<img width="1535" height="815" alt="Screenshot 2025-08-11 205505" src="https://github.com/user-attachments/assets/79dd4b6e-4d1e-4398-8789-a2f9aba09489" />
+
+<img width="1497" height="838" alt="Screenshot 2025-08-11 205432" src="https://github.com/user-attachments/assets/62064364-bea7-489e-bee4-66ee41036186" />
+
+
