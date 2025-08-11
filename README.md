@@ -1,9 +1,7 @@
 # Bio-Signal Generator with Arduino Integration
 
-
 ---
 
-## **README for Task 2 – Bio-Signal Generator with Arduino Integration**
 
 ```markdown
 # Bio-Signal Generator & Real-Time Visualizer (ECG) with Arduino Integration
@@ -26,7 +24,7 @@ Instead of relying on AI APIs or LLMs, the ECG signal is **math-generated** usin
 
 ---
 
-## 🛠 Features
+##  🛠 Features
 - **Customizable ECG Generation**
   - Sampling rate (Hz)
   - Signal length
