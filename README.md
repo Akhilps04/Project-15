@@ -1,8 +1,5 @@
 # Bio-Signal Generator with Arduino Integration
-
----
-
-# Bio-Signal Generator & Real-Time Visualizer (ECG) with Arduino Integration
+ Bio-Signal Generator & Real-Time Visualizer (ECG) with Arduino Integration
 
 ## 📌 Overview
 A desktop application to:
