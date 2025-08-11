@@ -2,8 +2,6 @@
 
 ---
 
-
-```markdown
 # Bio-Signal Generator & Real-Time Visualizer (ECG) with Arduino Integration
 
 ## 📌 Overview
@@ -63,3 +61,35 @@ Instead of relying on AI APIs or LLMs, the ECG signal is **math-generated** usin
    t = np.linspace(0, length / fs, length)
    ecg = np.sin(2 * np.pi * (heart_rate / 60) * t)
    ecg += np.random.normal(0, noise, length)
+2. Real-Time Mode
+   - Show 200 samples at a time
+  -  Slide window forward by 2 samples per frame
+3. Send to Arduino
+   - Open serial port
+   - Transmit ECG values line-by-line
+   - Close port after sending
+
+---
+
+## 🚀 Running the Application
+python ecg_generator.py
+pip install matplotlib numpy pyserial
+
+## 🔮 Future Improvements
+   - Use real ECG datasets
+   - Gender and age-based waveform variations
+   - AI classification of ECG patterns
+   - Live streaming from ECG sensors
+
+---
+
+# Acknowledgments
+Thanks to Apple and Berry Pvt for giving this task
+
+---
+
+## 📄 License
+This project is for practical and demonstration purposes only. Please credit the authors if reused or modified.
+
+---
+<img width="920" height="544" alt="image" src="https://github.com/user-attachments/assets/6d741a14-2654-4f7c-a62d-4f9e0e1b197b" />
